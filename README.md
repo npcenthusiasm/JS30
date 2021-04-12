@@ -13,3 +13,4 @@ JavaScript30 是 Wes Bos 推出的一個 30 天挑戰。提供免費線上課程
 No |主題| 簡介 | Demo
 --- | ---| --- | ---
 1 | JavaScript Drum Kit | [實作鍵盤 keydown 產生鼓聲](https://github.com/npcenthusiasm/JS30/tree/master/01-JavaScript-Drum-Kit) |  [Demo](https://npcenthusiasm.github.io/JS30/01-JavaScript-Drum-Kit/)
+2| JS-CSS-Clock | [用JS、CSS 實現時鐘](https://github.com/npcenthusiasm/JS30/tree/master/02-JS-CSS-Clock) | [Demo](https://npcenthusiasm.github.io/JS30/02-JS-CSS-Clock/)
