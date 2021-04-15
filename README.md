@@ -16,3 +16,4 @@ No |主題| 簡介 | Demo
 2| JS CSS Clock | [用JS、CSS 實現時鐘](https://github.com/npcenthusiasm/JS30/tree/master/02-JS-CSS-Clock) | [Demo](https://npcenthusiasm.github.io/JS30/02-JS-CSS-Clock/)
 3| CSS Variables | [JS 改變 CSS 變數](https://github.com/npcenthusiasm/JS30/tree/master/03-CSS-Variables) | [Demo](https://npcenthusiasm.github.io/JS30/03-CSS-Variables/)
 4 | Array Cardio Day 1 | [JS array 的方法(filter, map, sort, reduce)](https://github.com/npcenthusiasm/JS30/tree/master/04-Array-Cardio-Day1) | [Demo](https://npcenthusiasm.github.io/JS30/04-Array-Cardio-Day1/)
+5 | Flex Panel Gallery | 用 flex 和 trainsition 點擊圖片的效果  | [Demo](https://npcenthusiasm.github.io/JS30/05-Flex-Panel-Gallery/)
