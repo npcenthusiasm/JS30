@@ -19,3 +19,4 @@ No |主題| 簡介 | Demo
 5 | Flex Panel Gallery | 用 flex 和 trainsition 點擊圖片的效果  | [Demo](https://npcenthusiasm.github.io/JS30/05-Flex-Panel-Gallery/)
 6 | Type-Ahead | [input 關鍵字搜尋並 highlight](https://github.com/npcenthusiasm/JS30/tree/master/06-Type-Ahead) | [Demo](https://npcenthusiasm.github.io/JS30/06-Type-Ahead/)
 7 | Array Cardio Day 2 | [JS array 的方法(some, every, find, findIndex)](https://github.com/npcenthusiasm/JS30/tree/master/07-Array-Cardio-Day2) | [Demo](https://npcenthusiasm.github.io/JS30/07-Array-Cardio-Day2/)
+8 | Fun with HTML5 Canvas | [Canvas 彩虹畫筆](https://github.com/npcenthusiasm/JS30/tree/master/08-Fun-with-HTML5-Canvas) | [Demo](https://npcenthusiasm.github.io/JS30/08-Fun-with-HTML5-Canvas/)
