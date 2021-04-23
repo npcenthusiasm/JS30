@@ -21,3 +21,4 @@ No |主題| 簡介 | Demo
 7 | Array Cardio Day 2 | [JS array 的方法(some, every, find, findIndex)](https://github.com/npcenthusiasm/JS30/tree/master/07-Array-Cardio-Day2) | [Demo](https://npcenthusiasm.github.io/JS30/07-Array-Cardio-Day2/)
 8 | Fun with HTML5 Canvas | [Canvas 彩虹畫筆](https://github.com/npcenthusiasm/JS30/tree/master/08-Fun-with-HTML5-Canvas) | [Demo](https://npcenthusiasm.github.io/JS30/08-Fun-with-HTML5-Canvas/)
 9 | Dev Tools Domination | [console dev tool 介紹](https://github.com/npcenthusiasm/JS30/tree/master/09-Dev-Tools-Domination) | [Demo](https://npcenthusiasm.github.io/JS30/09-Dev-Tools-Domination/)
+10 | Hold Shift and Check Checkboxes| [用 `shift` 複數選取 checkbox](https://github.com/npcenthusiasm/JS30/tree/master/10-Hold-Shift-and-Check-Checkboxes) | [Demo](https://npcenthusiasm.github.io/JS30/10-Hold-Shift-and-Check-Checkboxes/)
