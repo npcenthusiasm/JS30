@@ -65,21 +65,24 @@
 
       slideImgs.forEach(img => {
 
-        // console.log('window.scrollY: ', window.scrollY)
+        // 算出 要 slideIn img 時的高度位置 (算出來會是當scrollY 到圖片高度的一半時的位置)
         const slideInAt = (window.scrollY + window.innerHeight) - img.height / 2
-        console.log('slideInAt: ', slideInAt);
 
+        // 圖片底部距離頂部的高
         const imgBottom = img.offsetTop + img.height
+
+        // 已經滑超過圖片的一半高了
         const isHalfShown = slideInAt > img.offsetTop
+
+        // 還沒有超滑過圖片底部
         const isNotScrollPast = window.scrollY < imgBottom
 
+        // 透過兩個判斷 確保是否在滑入區域的條件之內
         if (isHalfShown && isNotScrollPast) {
           img.classList.add('active')
         } else {
           img.classList.remove('active')
         }
-        // console.log('isHalfShown: ', isHalfShown);
-        // const slideInAt = img.offsetTop
       })
     }
 
