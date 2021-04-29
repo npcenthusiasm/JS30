@@ -24,3 +24,4 @@ No |主題| 簡介 | Demo
 10 | Hold Shift and Check Checkboxes| [用 `shift` 複數選取 checkbox](https://github.com/npcenthusiasm/JS30/tree/master/10-Hold-Shift-and-Check-Checkboxes) | [Demo](https://npcenthusiasm.github.io/JS30/10-Hold-Shift-and-Check-Checkboxes/)
 11 | Custom Video Player| [客製化 video player](https://github.com/npcenthusiasm/JS30/tree/master/11-Custom-Video-Player) | [Demo](https://npcenthusiasm.github.io/JS30/11-Custom-Video-Player/)
 12 | Key Sequence Detection| [Key-Sequence](https://github.com/npcenthusiasm/JS30/tree/master/12-Key-Sequence-Detection) | [Demo](https://npcenthusiasm.github.io/JS30/12-Key-Sequence-Detection/)
+13 | Slide in on Scroll| [scroll to slide img](https://github.com/npcenthusiasm/JS30/tree/master/13-Slide-in-on-Scroll) | [Demo](https://npcenthusiasm.github.io/JS30/13-Slide-in-on-Scroll/)
