@@ -28,3 +28,4 @@ No |主題| 簡介 | Demo
 14 | JavaScript References VS Copying| [參考 vs 複製](https://github.com/npcenthusiasm/JS30/tree/master/14-JavaScript-References-VS-Copying) | N/A
 15 | LocalStorage| [LocalStorage](https://github.com/npcenthusiasm/JS30/tree/master/15-LocalStorage) | [Demo](https://npcenthusiasm.github.io/JS30/15-LocalStorage/)
 16 | Mouse Move Shadow| [文字陰影 with mousemove](https://github.com/npcenthusiasm/JS30/tree/master/16-Mouse-Move-Shadow) | [Demo](https://npcenthusiasm.github.io/JS30/16-Mouse-Move-Shadow/)
+17 | Sort Without Articles| [Sort Without Articles](https://github.com/npcenthusiasm/JS30/tree/master/17-Sort-Without-Articles) | N/A
