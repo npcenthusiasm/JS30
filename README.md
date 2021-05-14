@@ -1,6 +1,6 @@
 # JavaScript30
 
-![](https://github.com/npcenthusiasm/JS30/js30_banner.png)
+![](https://github.com/npcenthusiasm/JS30/blob/master/js30_banner.png)
 
 課程官網: <https://javascript30.com/>
 
