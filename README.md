@@ -1,5 +1,7 @@
 # JavaScript30
 
+![](https://github.com/npcenthusiasm/JS30/js30_banner.png)
+
 課程官網: <https://javascript30.com/>
 
 課程 github: <https://github.com/wesbos/JavaScript30>
