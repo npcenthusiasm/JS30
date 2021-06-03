@@ -31,4 +31,4 @@ No |主題| 簡介 | Demo
 15 | LocalStorage| [LocalStorage](https://github.com/npcenthusiasm/JS30/tree/master/15-LocalStorage) | [Demo](https://npcenthusiasm.github.io/JS30/15-LocalStorage/)
 16 | Mouse Move Shadow| [文字陰影 with mousemove](https://github.com/npcenthusiasm/JS30/tree/master/16-Mouse-Move-Shadow) | [Demo](https://npcenthusiasm.github.io/JS30/16-Mouse-Move-Shadow/)
 17 | Sort Without Articles| [Sort Without Articles](https://github.com/npcenthusiasm/JS30/tree/master/17-Sort-Without-Articles) | N/A
-18 | Adding Up Times with Reduce| [Adding Up Times with Reduce](https://github.com/npcenthusiasm/JS30/tree/master/18-Adding-Up-Times-with-Reduce) | N/A
+18 | Adding Up Times with Reduce| [Adding Up Times with Reduce](https://github.com/npcenthusiasm/JS30/tree/master/18-Adding-Up-Times-with-Reduce) | [Demo](https://npcenthusiasm.github.io/JS30/18-Adding-Up-Times-with-Reduce/)
