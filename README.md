@@ -30,6 +30,6 @@ No |主題| 簡介 | Demo
 14 | JavaScript References VS Copying| [參考 vs 複製](https://github.com/npcenthusiasm/JS30/tree/master/14-JavaScript-References-VS-Copying) | N/A
 15 | LocalStorage| [LocalStorage](https://github.com/npcenthusiasm/JS30/tree/master/15-LocalStorage) | [Demo](https://npcenthusiasm.github.io/JS30/15-LocalStorage/)
 16 | Mouse Move Shadow| [文字陰影 with mousemove](https://github.com/npcenthusiasm/JS30/tree/master/16-Mouse-Move-Shadow) | [Demo](https://npcenthusiasm.github.io/JS30/16-Mouse-Move-Shadow/)
-17 | Sort Without Articles| [Sort Without Articles](https://github.com/npcenthusiasm/JS30/tree/master/17-Sort-Without-Articles) | N/A
-18 | Adding Up Times with Reduce| [Adding Up Times with Reduce](https://github.com/npcenthusiasm/JS30/tree/master/18-Adding-Up-Times-with-Reduce) | [Demo](https://npcenthusiasm.github.io/JS30/18-Adding-Up-Times-with-Reduce/)
-19 | Webcam-Fun| [Webcam-Fun](https://github.com/npcenthusiasm/JS30/tree/master/19-Webcam-Fun) | N/A
+17 | Sort Without Articles| 排序前先過濾一些特定文字一層 | [Demo](https://github.com/npcenthusiasm/JS30/tree/master/17-Sort-Without-Articles)
+18 | Adding Up Times with Reduce| [Adding Up Times with Reduce](https://github.com/npcenthusiasm/JS30/tree/master/18-Adding-Up-Times-with-Reduce) | N/A
+19 | Webcam-Fun| 使用網路鏡頭和濾鏡 | [Demo](https://npcenthusiasm.github.io/JS30/19-Webcam-Fun/)
